@@ -1,0 +1,3 @@
+Run sqlite3 Chinook.db
+Run .read Chinook_Sqlite.sql
+Test SELECT * FROM Artist LIMIT 10;
